@@ -1,0 +1,11 @@
+,n_estimators,min_samples_split,min_samples_leaf,max_features,max_depth,bootstrap
+0,700,2,1,auto,189,True
+1,100,2,1,sqrt,67,True
+2,500,2,1,auto,179,True
+3,300,2,1,auto,103,True
+4,400,2,1,auto,169,True
+5,300,2,1,auto,174,True
+6,200,2,1,auto,133,True
+7,200,2,1,auto,21,True
+8,900,2,1,sqrt,118,True
+9,200,2,1,sqrt,169,True
